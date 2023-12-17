@@ -1,6 +1,6 @@
 # vCard to ODS Converter
 
-This script converts vcf (Virtaul Contacts File) files to ods (Open Document Spreadsheet) files.
+This script converts vcf (Virtual Contacts File) files to ods (Open Document Spreadsheet) files.
 
 ## Features
 
